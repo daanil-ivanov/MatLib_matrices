@@ -20,15 +20,6 @@ pip install --upgrade pip
 pip install -e .[dev]
 ```
 
-## Установка и импорт
-
-В уже клонированном репозитории:
-
-```bash
-cd MatLib_matrices
-pip install -e .  
-```
-
 ## pytest
 
 Для проведения тестов введите команду
