@@ -25,7 +25,7 @@ pip install -e .[dev]
 В уже клонированном репозитории:
 
 ```bash
-git clone … && cd MatLib_matrices
+cd MatLib_matrices
 pip install -e .  
 ```
 
